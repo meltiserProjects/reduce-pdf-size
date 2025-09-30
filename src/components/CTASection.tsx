@@ -15,7 +15,7 @@ const CTASection = () => {
             Start Compressing PDFs Today
           </h2>
           <p className="text-xl md:text-2xl text-white/80 mb-10 max-w-2xl mx-auto">
-            Join thousands of users who trust Reduce PDF Size for fast, secure compression
+            Join over 1,200 weekly users who trust Reduce PDF Size for fast, secure compression
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -31,7 +31,7 @@ const CTASection = () => {
                 rel="noopener noreferrer"
               >
                 <Chrome className="mr-2 h-5 w-5" />
-                Add to Chrome - Free
+                Add to Chrome
               </a>
             </Button>
           </div>
@@ -40,11 +40,11 @@ const CTASection = () => {
           <div className="mt-12 flex flex-wrap justify-center items-center gap-8 text-white/60">
             <div className="flex items-center gap-2">
               <Download className="w-5 h-5" />
-              <span>10,000+ Downloads</span>
+              <span>1,760+ Installs</span>
             </div>
             <div className="flex items-center gap-2">
               <span className="text-2xl">★★★★★</span>
-              <span>4.8 Rating</span>
+              <span>5.0 Rating</span>
             </div>
             <div className="flex items-center gap-2">
               <Chrome className="w-5 h-5" />

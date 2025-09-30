@@ -41,7 +41,7 @@ const HeroSection = () => {
                 rel="noopener noreferrer"
               >
                 <Download className="mr-2 h-5 w-5" />
-                Add to Chrome - It's Free
+                Add to Chrome
               </a>
             </Button>
           </div>
@@ -49,9 +49,9 @@ const HeroSection = () => {
           {/* Stats */}
           <div className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 max-w-3xl mx-auto">
             {[
-              { label: "Active Users", value: "10,000+" },
-              { label: "Files Compressed", value: "1M+" },
-              { label: "Average Rating", value: "4.8★" },
+              { label: "Weekly Active Users", value: "1,200+" },
+              { label: "Total Installs", value: "1,760+" },
+              { label: "User Rating", value: "5.0★" },
               { label: "Compression Time", value: "<5 sec" }
             ].map((stat, index) => (
               <div key={index} className="text-center animate-fade-in animation-delay-600">

@@ -17,16 +17,16 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 10%;
 
-    --primary: 0 72% 42%;
+    --primary: 0 65% 55%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 0 80% 55%;
+    --secondary: 0 75% 65%;
     --secondary-foreground: 0 0% 100%;
 
     --muted: 0 0% 95%;
     --muted-foreground: 0 0% 40%;
 
-    --accent: 14 90% 60%;
+    --accent: 14 85% 65%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84.2% 60.2%;
@@ -39,12 +39,12 @@ All colors MUST be HSL.
     --radius: 0.75rem;
 
     /* Custom tokens for PDF landing */
-    --hero-gradient-start: 0 75% 38%;
-    --hero-gradient-end: 0 68% 28%;
-    --feature-glow: 0 72% 42%;
+    --hero-gradient-start: 0 68% 50%;
+    --hero-gradient-end: 0 62% 40%;
+    --feature-glow: 0 65% 55%;
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    --shadow-elegant: 0 10px 40px -10px hsl(0 72% 42% / 0.3);
-    --shadow-glow: 0 0 50px hsl(0 72% 42% / 0.2);
+    --shadow-elegant: 0 10px 40px -10px hsl(0 65% 55% / 0.3);
+    --shadow-glow: 0 0 50px hsl(0 65% 55% / 0.2);
   }
 
   .dark {

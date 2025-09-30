@@ -37,7 +37,7 @@ const TestimonialsSection = () => {
             What Users Say
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Join thousands of satisfied users worldwide
+            Trusted by over 1,200 weekly users
           </p>
         </div>
 
@@ -72,9 +72,9 @@ const TestimonialsSection = () => {
                 <Star key={i} className="w-5 h-5 fill-accent text-accent" />
               ))}
             </div>
-            <span className="text-lg font-semibold text-foreground">4.8 out of 5</span>
+            <span className="text-lg font-semibold text-foreground">5.0 out of 5</span>
             <span className="text-muted-foreground">•</span>
-            <span className="text-muted-foreground">Based on 10,000+ reviews</span>
+            <span className="text-muted-foreground">Based on Chrome Web Store reviews</span>
           </div>
         </div>
       </div>
