@@ -26,7 +26,7 @@ const CTASection = () => {
               asChild
             >
               <a 
-                href="https://chromewebstore.google.com/detail/reduce-pdf-size/mgpodjlmecklbjmnchmlcfdohhpceejo?hl=en"
+                href="https://chromewebstore.google.com/detail/reduce-pdf-size/mgpodjlmecklbjmnchmlcfdohhpceejo?hl=en&utm_source=website&utm_medium=cta_button&utm_campaign=extension_download&utm_content=add_to_chrome_bottom"
                 target="_blank"
                 rel="noopener noreferrer"
               >
